@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.fmt
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Latexmk
+*.dvi
+*.pdf
+*.ps
+
+# Temporary editor files
+*.swp
+*.swo
+*~
